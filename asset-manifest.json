@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sema-front/static/css/main.ec139136.chunk.css",
+    "main.js": "/sema-front/static/js/main.34ea4736.chunk.js",
+    "main.js.map": "/sema-front/static/js/main.34ea4736.chunk.js.map",
+    "runtime-main.js": "/sema-front/static/js/runtime-main.3d28ec2a.js",
+    "runtime-main.js.map": "/sema-front/static/js/runtime-main.3d28ec2a.js.map",
+    "static/css/2.2a86faee.chunk.css": "/sema-front/static/css/2.2a86faee.chunk.css",
+    "static/js/2.97c6c400.chunk.js": "/sema-front/static/js/2.97c6c400.chunk.js",
+    "static/js/2.97c6c400.chunk.js.map": "/sema-front/static/js/2.97c6c400.chunk.js.map",
+    "index.html": "/sema-front/index.html",
+    "precache-manifest.279615923c270e488d9cec0ff287827e.js": "/sema-front/precache-manifest.279615923c270e488d9cec0ff287827e.js",
+    "service-worker.js": "/sema-front/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/sema-front/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.ec139136.chunk.css.map": "/sema-front/static/css/main.ec139136.chunk.css.map",
+    "static/js/2.97c6c400.chunk.js.LICENSE.txt": "/sema-front/static/js/2.97c6c400.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d28ec2a.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.97c6c400.chunk.js",
+    "static/css/main.ec139136.chunk.css",
+    "static/js/main.34ea4736.chunk.js"
+  ]
+}
