@@ -1,0 +1,14 @@
+.mod-content {
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 640px) {
+
+    .mod{
+        margin: 0% 0% 0% 30%;
+        width: 40%;
+       
+    }
+
+}
