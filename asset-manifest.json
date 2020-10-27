@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sema-front/static/css/main.d1a48113.chunk.css",
+    "main.css": "/sema-front/static/css/main.ca97d8ec.chunk.css",
     "main.js": "/sema-front/static/js/main.40724e95.chunk.js",
     "main.js.map": "/sema-front/static/js/main.40724e95.chunk.js.map",
     "runtime-main.js": "/sema-front/static/js/runtime-main.3d28ec2a.js",
@@ -9,17 +9,17 @@
     "static/js/2.94def47d.chunk.js": "/sema-front/static/js/2.94def47d.chunk.js",
     "static/js/2.94def47d.chunk.js.map": "/sema-front/static/js/2.94def47d.chunk.js.map",
     "index.html": "/sema-front/index.html",
-    "precache-manifest.274f7ea2e9471bad78aa4cbfe0ca994f.js": "/sema-front/precache-manifest.274f7ea2e9471bad78aa4cbfe0ca994f.js",
+    "precache-manifest.bc43bded67ca9752f117004fefbae4bc.js": "/sema-front/precache-manifest.bc43bded67ca9752f117004fefbae4bc.js",
     "service-worker.js": "/sema-front/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/sema-front/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.d1a48113.chunk.css.map": "/sema-front/static/css/main.d1a48113.chunk.css.map",
+    "static/css/main.ca97d8ec.chunk.css.map": "/sema-front/static/css/main.ca97d8ec.chunk.css.map",
     "static/js/2.94def47d.chunk.js.LICENSE.txt": "/sema-front/static/js/2.94def47d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3d28ec2a.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.94def47d.chunk.js",
-    "static/css/main.d1a48113.chunk.css",
+    "static/css/main.ca97d8ec.chunk.css",
     "static/js/main.40724e95.chunk.js"
   ]
 }
