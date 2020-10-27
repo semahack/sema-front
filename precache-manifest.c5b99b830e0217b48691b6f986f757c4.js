@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68a6326b72fca1730669b804c58840b5",
+    "revision": "4c8d8f7446fb324c48750b60144fb180",
     "url": "/sema-front/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sema-front/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "cda5dd97dff1e0b39a51",
+    "revision": "a4837a1f6d85b3b2759a",
     "url": "/sema-front/static/css/main.ca97d8ec.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sema-front/static/js/2.94def47d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cda5dd97dff1e0b39a51",
-    "url": "/sema-front/static/js/main.78a80890.chunk.js"
+    "revision": "a4837a1f6d85b3b2759a",
+    "url": "/sema-front/static/js/main.d952fa6d.chunk.js"
   },
   {
     "revision": "53d5d61cc89e7b2f251f",
