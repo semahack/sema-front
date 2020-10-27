@@ -4,6 +4,7 @@ import LoadingSpinner from './components/LoadingSpinner/LoadingSpinner';
 import axios from 'axios';
 import img from './preview.png';
 import {Alert} from 'react-bootstrap';
+import logo from './logo.png';
 
 
 const Sema = () => {
@@ -24,7 +25,7 @@ const Sema = () => {
 
     async function fetchData() {
             
-            const apiUrl = 'https://sema-api.heroku.com/api/sema';
+            const apiUrl = 'https://sema-api.herokuapp.com//api/classify';
 
             setLoading(true);
 
@@ -62,15 +63,17 @@ const Sema = () => {
 
     return(
             <div className='page-wrapper'>
-                <div className='logo'><h4>Team SEMA</h4></div>
+                <div className='logo'><img src={logo} alt='logo' width='250' height='170'/></div>
                 <div className='inner-wrapper'>
 
                     { loading ? 
 
                         <LoadingSpinner />
+                        
 
                          :
 
+                         
                         <div className='upload-wrapper'>
                             <div className='image-wrapper'>
                                 <img src={preview} alt='upload cell image' width="180" height="200"/>
