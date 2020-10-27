@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sema-front/precache-manifest.279615923c270e488d9cec0ff287827e.js"
+  "/sema-front/precache-manifest.e3075f4d3b03798f455cdc55af2d49de.js"
 );
 
 self.addEventListener('message', (event) => {
